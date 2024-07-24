@@ -1,1 +1,5 @@
-[![zmourtab's 42 stats](https://badge.mediaplus.ma/binary/zmourtab?UM6P=off)]
+##About me
+
+<p align="center">I am a student at 42 beirut, an enthusiast for all that is tech , and an a developer.</p>
+
+
