@@ -1,6 +1,6 @@
 <h3 align="center">A hobbiest turned Software Engineer, and a tech enthusiast at heart</h3>
-<p>I’m currently learning **Full Stack Development**<p/>
-<p>My primary contact **zakariamourtban@gmail.com**</p>
+<p align="center">I’m currently learning **Full Stack Development**<p/>
+<p align="center">My primary contact **zakariamourtban@gmail.com**</p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/zakaria-mourtaban" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zakaria-mourtaban" height="30" width="40" /></a>
