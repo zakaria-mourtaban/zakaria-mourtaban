@@ -1,7 +1,6 @@
 <h3 align="center">A hobbiest turned Software Engineer, and a tech enthusiast at heart</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=zakaria-mourtaban&label=Profile%20views&color=0e75b6&style=flat" alt="zakaria-mourtaban" /> </p>
-
+<br>
 
 - I’m currently learning **Full Stack Development**
 
