@@ -1,6 +1,6 @@
 <h3 align="center">A hobbiest turned Software Engineer, and a tech enthusiast at heart</h3>
 
-<br / >
+<br/>
 
 - I’m currently learning **Full Stack Development**
 
