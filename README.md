@@ -2,6 +2,9 @@
 <h3 align="center">A hobbyist turned Software Engineer, and a tech enthusiast at heart</h3>
 <p align="center">I’m currently learning <strong>Full Stack Development</strong></p>
 <p align="center">My primary contact: <a href="mailto:zakariamourtban@gmail.com"><strong>zakariamourtban@gmail.com</strong></a></p>
+<p align="center">
+<img align="center" src="https://user-badge.committers.top/lebanon/zakaria-mourtaban.svg" alt="zakaria-mourtaban"/>
+</p>
 
 ---
 
